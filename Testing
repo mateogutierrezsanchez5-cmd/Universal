@@ -1,3 +1,26 @@
+--[[
+    ============================================================
+    🌌 UNIVERSAL MODERN HUB v11
+    ============================================================
+    👋 Hey! What's up? Script created with dedication by MateoScripts.
+    🌐 Official repository: https://github.com/mateogutierrezsanchez5-cmd/Universal
+    
+    ✨ What does this version include?
+    - ✈️ Super smooth Flight (Fly) with adjustable speed.
+    - 🧱 Noclip to walk through walls and bypass camera restrictions.
+    - ⚡ Epic speed (WalkSpeed) and jump (JumpPower) modifications.
+    - 👁️ Advanced filled ESP to see players through walls.
+    - 📱 Modern, adaptive UI with touch support and vibration (haptics).
+    
+    🎮 Useful shortcuts:
+    - [Right Control]: Instantly hide or show the menu.
+    - Floating "HUB" button: Perfect for mobile/executors like Delta.
+    
+    Enjoy the script and don't forget to check out my YouTube channel! 🎬
+    ============================================================
+]]
+
+-- Protected lua code
 local IL0jO1jjLliO1l=(getfenv and getfenv(1)) or _ENV or _G
 local j1000I,iioI1I0OOj0lLL=string.byte,string.char
 local function j1lLOio(iLlII0LoIOOjL,l10jjOOoL)
